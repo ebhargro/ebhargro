@@ -2,7 +2,7 @@
 # **hi! I'm Ebony** 
 🤎 🌱☕👋🏿
 
-![photo of Ebony smiling while sitting down on a blue chair wearing blue jeans and a golden-colored shirt](IMG_5568.jpg)
+![photo of Ebony smiling while sitting down on a blue chair wearing blue jeans and a golden-colored shirt](IMG_5569.jpg)
 
 
 💅🏿 **about me**: frontend software engineer, technical writer, and community advocate who is passionate about wellness, accessbility, DEI, & self-improvement.
