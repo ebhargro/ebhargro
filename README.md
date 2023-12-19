@@ -2,7 +2,7 @@
 # **hi! I'm Ebony** 
 🤎 🌱☕👋🏿
 
-💅🏿 **about me**: full stack software engineer + technical writer
+💅🏿 **about me**: full stack software engineer
 
 😊 **pronouns**: she/her
 
