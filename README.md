@@ -5,11 +5,11 @@
 
  **pronouns**: she/her
 
-💻 **languages & frameworks**: js/react/redux/typescript/html/css
+💻 **languages & frameworks**: react/redux/typescript
 
-📚 **learning**: c++, discrete math
+📚 **learning**: tailwind/nextjs
 
-💭 **interested in**: cloud && cybsec
+💭 **interested in**: ui design & product dev
 
 👩🏿‍💻 **building**: a simple recipe generator that takes any recipe & returns a vegan or vegetarian version + an online community for serial hobbyists like myself
 
